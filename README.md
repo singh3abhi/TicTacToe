@@ -18,6 +18,11 @@ This repository is still under development, and I will continue to add more feat
 - Responsive Glow Themed UI
 - Cross Platform Game
 
+## Tech Used
+**Server**: Node.js, Express, Socket.io, Mongoose, MongoDB
+
+**Client**: Flutter, Provider
+
 ## Screenshots
 
 | Screen 1 | Screen 2 |
