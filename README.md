@@ -1,16 +1,37 @@
-# my_tictactoe
+# Multiplayer Tic Tac Toe Game
 
-A new Flutter project.
+A completely Responsive Multiplayer TicTacToe Game- Works on Android, iOS, Web & Desktop!
 
-## Getting Started
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mohak1283)
 
-This project is a starting point for a Flutter application.
+## Show some :heart: and star the repo to support the project.
 
-A few resources to get you started if this is your first Flutter project:
+## Note
+This repository is still under development, and I will continue to add more features to it.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Create/Join Room
+- Play Realtime
+- Display Points
+- Round & Game Winner
+- Responsive Glow Themed UI
+- Cross Platform Game
+
+## Screenshots
+
+| Screen 1 | Screen 2 |
+| :---: | :---: |
+| <img src="https://github.com/singh3abhi/TicTacToe/blob/main/screenshots/1.png" alt="Screen 1" width="275"/> | <img src="https://github.com/singh3abhi/TicTacToe/blob/main/screenshots/2.png" alt="Screen 2" width="275"/> |
+
+| Screen 3 | Screen 4 |
+| :---: | :---: |
+| <img src="https://github.com/singh3abhi/TicTacToe/blob/main/screenshots/3.png" alt="Screen 3" width="275"/> | <img src="https://github.com/singh3abhi/TicTacToe/blob/main/screenshots/4.png" alt="Screen 4" width="275"/> |
+
+| Screen 5 | Screen 6 |
+| :---: | :---: |
+| <img src="https://github.com/singh3abhi/TicTacToe/blob/main/screenshots/5.png" alt="Screen 5" width="275"/> | <img src="https://github.com/singh3abhi/TicTacToe/blob/main/screenshots/6.png" alt="Screen 6" width="275"/> |
+
+| Screen 7 | Screen 8 |
+| :---: | :---: |
+| <img src="https://github.com/singh3abhi/TicTacToe/blob/main/screenshots/7.png" alt="Screen 7" width="275"/> | <img src="https://github.com/singh3abhi/TicTacToe/blob/main/screenshots/8.png" alt="Screen 8" width="275"/> |
